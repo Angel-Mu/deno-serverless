@@ -1,0 +1,23 @@
+{
+  "name": "deno-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-scriptable-plugin": "^1.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-angel-mu:Angel-Mu/deno-serverless.git"
+  },
+  "keywords": [
+    "deno",
+    "serverless"
+  ],
+  "author": "Angel Malavar <angel.malavar@gmail.com>",
+  "license": "ISC"
+}
